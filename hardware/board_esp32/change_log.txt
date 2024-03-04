@@ -1,7 +1,0 @@
-board_esp32 changelog
-
-191216
-Fitz
- - Move components around layout
-
-
