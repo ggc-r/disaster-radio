@@ -2,15 +2,9 @@
 
 It is a work-in-progress long-range, low-bandwidth wireless disaster recovery mesh network powered by the sun. 
 
-[![Build Status](https://travis-ci.org/sudomesh/disaster-radio.svg?branch=master)](https://travis-ci.org/sudomesh/disaster-radio)  
-
 * [firmware/](./firmware) contains the main example code for ESP32 dev boards
 * [src/](./src) contains the disaster radio library code used by the firmware and simulator
 * [web/](./web) is the demo chat app served up by the disaster-radio
-* [hardware/](./hardware) is the kicad board layout and schematic
-* [enclosure/](./enclosure) are 3D models of the enclosure(s)
-* [android app](https://github.com/beegee-tokyo/disaster-radio-android) source code for [DisasterRadio BLE Chatbox](https://play.google.com/store/apps/details?id=tk.giesecke.disaster_radio&hl=en_US) Android Application
-* [mapping web app](https://github.com/sudomesh/disaster-radio-map) source code for mapping web-based appilcation
 
 ## Table of contents
 - [Getting Started](#getting-started)
